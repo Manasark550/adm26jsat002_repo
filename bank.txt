@@ -1,0 +1,5 @@
+bank.name=ICICI
+bank.Address=Chennai
+bank.Cname=Manu
+bank.accno=1111
+bank.acctype=Saving
